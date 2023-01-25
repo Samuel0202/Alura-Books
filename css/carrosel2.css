@@ -1,0 +1,10 @@
+.vendas-titulo{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: var(--fonte-principal);
+    color: var(--laranja);
+    background-color: var(--branco-principal);
+    padding: 1em;
+    margin-bottom: 1.5em;
+}
